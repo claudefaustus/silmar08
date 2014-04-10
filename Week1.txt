@@ -2,8 +2,12 @@ Claude  silmar08
 personal goals:
 
 finish python code academy
-
+ 
+I did more code academy but I did not finish. 
+ 
 software project:
+
+I now have an actual software project, a partner, and real goals.
 
 hardware project:
 
@@ -15,5 +19,9 @@ Kalia Marfori markai14
  read chapters 1-2 in Arduino Workshop
  organize closet list
  meet @ computer lab on sunday at 1
+ 
+ I met with my group, and we read the arduino book.
+ 
+ 
 
 
