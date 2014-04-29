@@ -1,0 +1,27 @@
+My software goal for week 5 is to solve some problems that have come up as I have tried to create the game Nat and I have been working on.
+
+Specifically I have run into what I have divided into 3 problems.
+1. I am not able to pick up inventory items without being heavily prompted & linear (if you miss it, oh well). 
+2. I am not able to use inventory items without being heavily prompted and I want to be able to use inventory items in more than one way/instance.
+3. I am not able to navigate the game without only following prompts, I am not able to move back and forth between locations without relying on prompts and typing endless, linear code. 
+
+I have handed problem 3 off to Nat for the time being, I am currently working on problem 1.
+
+During this week I would like to make significant progress or even finish the code for a game I have made specifically to solve this problem. I would define significant progress as having reached a point in which a player can combine objects in their inventory. I would say that completing the "exclusions" and "bonus" are not neccessary this week.
+
+Here is my description of the game:
+
+***********
+
+map: player is in a room, doesn’t need to move, there is nowhere to go. The room has objects in it, which the player can pick up and combine together to create new items. that’s all that happens. 
+
+objects (pencil, paper, needle, bowl, thread, soap). 
+
+1.Pencil + paper = drawing. 2. needle + bowl = compass. 3. Needle  + thread = shirt patch. 4. needle +  soap = soap sculpture. 5. soap + pencil = sundial. 6. Soap + bowl = suds. soap and thread = deer scare. All other combinations are invalid.
+
+exclusions = if you make suds with the soap (comb. 6) you can no longer use the soap for anything else.
+everything else can be used multiple times in multiple ways infinitely.
+
+Bonus! if player makes both drawing and soap sculpture they get the reward “artist”. If the player makes sundial and compass they get the reward “survivalist”. If the player creates suds and shirt patch they get the reward “homemaker”. If they make deer scare and compass they get “risk taker”.
+
+************
